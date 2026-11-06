@@ -1,0 +1,17 @@
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Windows temp files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
