@@ -34,8 +34,7 @@ Login Form  (Valid Login) Choose Form
     - Pied bleu
 - **Navigation**:
 - **Back**: Returns to the Choose form.
- **Logout**: Returns to the Login form.
-
+-  **Logout**: Returns to the Login form.
 ## Built With
 - C# (.NET Framework 4.7.2)
 - Windows Forms (System.Windows.Forms)
