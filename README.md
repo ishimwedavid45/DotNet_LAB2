@@ -4,14 +4,13 @@ This repository contains the Windows Forms implementation of **Lab 2** for C# (.
 
 ## Application Architecture & Flow
 ```
-Login Form ──(Valid Login)──> Choose Form
-                                 ├──> Bicycle Form (Rental Calculator)
-                                 │       ├── Back: Return to Choose Form
-                                 │       └── Logout: Return to Login Form
-                                 │
-                                 └──> Mushroom Form (Mushroom Identifier)
-                                         ├── Back: Return to Choose Form
-                                         └── Logout: Return to Login Form
+Login Form  (Valid Login) Choose Form
+      Bicycle Form (Rental Calculator)                            
+      Back: Return to Choose Form                                  
+      Logout: Return to Login Form                                  
+      Mushroom Form (Mushroom Identifier)                          
+      Back: Return to Choose Form                                    
+      Logout: Return to Login Form                                   
 ```
 
 ## Features
@@ -34,8 +33,8 @@ Login Form ──(Valid Login)──> Choose Form
     - Girolle
     - Pied bleu
 - **Navigation**:
-  - **Back**: Returns to the Choose form.
-  - **Logout**: Returns to the Login form.
+- **Back**: Returns to the Choose form.
+ **Logout**: Returns to the Login form.
 
 ## Built With
 - C# (.NET Framework 4.7.2)
