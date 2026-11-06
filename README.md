@@ -1,4 +1,4 @@
-# C# (.NET) Lab 2 - Desktop Application (Windows Forms)
+#  LAB 2 - Desktop Application (Windows Forms)
 
 This repository contains the Windows Forms implementation of **Lab 2** for C# (.NET), porting the Bicycle Rental and Mushroom Identifier console programs into a multi-form desktop application.
 
